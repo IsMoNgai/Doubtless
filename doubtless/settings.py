@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'doubtless.wsgi.application'
+WSGI_APPLICATION = 'doubtless.wsgi.app'
 
 
 # Database
